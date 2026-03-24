@@ -58,3 +58,10 @@ Aqui, os dados foram elevados a um nível analítico e visual:
 * **Eficiência Operacional:** Redução do tempo de tratamento de dados com o uso de Power Query e VBA.
 * **Visão 360º:** O gestor agora identifica instantaneamente quais ativos estão performando acima ou abaixo da meta.
 * **Escalabilidade:** O modelo está pronto para receber novos aportes sem necessidade de refazer os
+* 
+---
+
+### 📚 **PRÓXIMOS PASSOS DE ESTUDO**
+Para evoluir ainda mais na stack de dados, meus próximos objetivos de aprendizado são:
+* **SQL:** Para manipulação e extração de dados diretamente de bancos de dados relacionais.
+* **Tableau:** Para explorar novas possibilidades de storytelling e visualizações de dados avançadas.
