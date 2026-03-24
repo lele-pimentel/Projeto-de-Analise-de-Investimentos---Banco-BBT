@@ -3,7 +3,7 @@
 Este projeto demonstra o fluxo completo de dados, desde o tratamento e automação em Excel até a criação de um dashboard estratégico em Power BI, simulando o cenário real de uma mesa de investimentos.
 
 ### 🚩 **DESAFIO**
-Eu, como analista, recebo bases de dados fragmentadas e estáticas, o que torna o acompanhamento de rentabilidade propenso a erros manuais e dificulta a visualização de oportunidades ou riscos na carteira do cliente.
+Como analista, recebo bases de dados fragmentadas e estáticas, o que torna o acompanhamento de rentabilidade propenso a erros manuais e dificulta a visualização de oportunidades ou riscos na carteira do cliente.
 
 ### 🎯 **OBJETIVO**
 Demonstrar o fluxo completo de dados de uma carteira de investimentos, desde o tratamento e automação em Excel até a criação de um dashboard analítico em Power BI, garantindo integridade de dados e suporte à tomada de decisão.
