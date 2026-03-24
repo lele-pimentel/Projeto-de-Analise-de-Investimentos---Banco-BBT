@@ -23,10 +23,11 @@ Demonstrar o fluxo completo de dados de uma carteira de investimentos, desde o t
 Nesta etapa, transformei dados brutos em uma ferramenta operacional funcional:
 
 * **Tratamento:** Padronização de dados e tabelas estruturadas para evitar erros de referência.
-* **Inteligência:** Aplicação de funções avançadas (PROCV, CONT.SE, MÉDIA) para cálculo de Valor Atual e Rentabilidade.
-* **Automação:** Criação de Macros em VBA para automação de cadastros de novos ativos.
+* **Inteligência:** Aplicação de funções avançadas (PROCV, CONT.SE, MÉDIA) para cálculo de performance.
+* **Automação de Média de Alunos (VBA):** Desenvolvimento de um script para entrada de notas via `InputBox`, cálculo automático de médias e aplicação de formatação condicional (Verde para aprovação e Vermelho para reprovação) diretamente nas células.
 * **UX/UI:** Lista suspensa interativa e formatação condicional dinâmica (KPIs de performance).
-* **Destaque:** A planilha permite uma consulta rápida por ativo, ideal para o "front-desk" de atendimento.
+
+---
 
 **Visualização:**
 
@@ -43,6 +44,8 @@ Aqui, os dados foram elevados a um nível analítico e visual:
 * **Modelagem de Dados:** Estrutura Star Schema (Fatos e Dimensões) para garantir performance.
 * **Cálculos DAX:** Desenvolvimento de medidas para Rentabilidade %, Lucro Total e análises estatísticas (Máx/Mín).
 * **Visualização:** Dashboard interativo com navegação por botões, filtros dinâmicos e análise por categoria de ativo.
+  
+---
 
 **Visualização:**
 
