@@ -61,7 +61,5 @@ Aqui, os dados foram elevados a um nível analítico e visual:
 * 
 ---
 
-### 📚 **PRÓXIMOS PASSOS DE ESTUDO**
-Para evoluir ainda mais na stack de dados, meus próximos objetivos de aprendizado são:
-* **SQL:** Para manipulação e extração de dados diretamente de bancos de dados relacionais.
-* **Tableau:** Para explorar novas possibilidades de storytelling e visualizações de dados avançadas.
+
+
