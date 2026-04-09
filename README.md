@@ -41,7 +41,6 @@ Nesta etapa, transformei dados brutos em uma ferramenta operacional funcional:
 Aqui, os dados foram elevados a um nível analítico e visual:
 
 * **ETL (Power Query):** Limpeza profunda e criação de colunas condicionais para segmentação de rentabilidade.
-* **Modelagem de Dados:** Estrutura Star Schema (Fatos e Dimensões) para garantir performance.
 * **Cálculos DAX:** Desenvolvimento de medidas para Rentabilidade %, Lucro Total e análises estatísticas (Máx/Mín).
 * **Visualização:** Dashboard interativo com navegação por botões, filtros dinâmicos e análise por categoria de ativo.
   
