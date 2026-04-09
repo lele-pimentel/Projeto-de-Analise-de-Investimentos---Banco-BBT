@@ -1,6 +1,6 @@
 # **PROJETO DE ANÁLISE DE INVESTIMENTOS - BANCO BBT**
 
-Este projeto demonstra o fluxo completo de dados, desde o tratamento e automação em Excel até a criação de um dashboard estratégico em Power BI, simulando o cenário real de uma mesa de investimentos.
+Este projeto demonstra o fluxo completo de dados, desde o tratamento, organização em ETL e automação em Excel até a criação de um dashboard estratégico em Power BI, simulando o cenário real de uma mesa de investimentos.
 
 ### 🚩 **DESAFIO**
 Como analista, recebi bases de dados fragmentadas, vazias, com erros e desogarnizadas, o que torna o acompanhamento de rentabilidade, lucro e perda propenso a erros manuais e dificulta a visualização de oportunidades ou riscos na carteira do cliente.
