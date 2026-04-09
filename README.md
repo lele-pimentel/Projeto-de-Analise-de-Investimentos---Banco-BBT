@@ -3,29 +3,28 @@
 Este projeto demonstra o fluxo completo de dados, desde o tratamento e automação em Excel até a criação de um dashboard estratégico em Power BI, simulando o cenário real de uma mesa de investimentos.
 
 ### 🚩 **DESAFIO**
-Como analista, recebo bases de dados fragmentadas e estáticas, o que torna o acompanhamento de rentabilidade propenso a erros manuais e dificulta a visualização de oportunidades ou riscos na carteira do cliente.
+Como analista, recebi bases de dados fragmentadas, vazias, com erros e desogarnizadas, o que torna o acompanhamento de rentabilidade, lucro e perda propenso a erros manuais e dificulta a visualização de oportunidades ou riscos na carteira do cliente.
 
 ### 🎯 **OBJETIVO**
 Demonstrar o fluxo completo de dados de uma carteira de investimentos, desde o tratamento e automação em Excel até a criação de um dashboard analítico em Power BI, garantindo integridade de dados e suporte à tomada de decisão.
 
 ### 🛠️ **TECNOLOGIAS UTILIZADAS**
-* **Excel** (Fórmulas Avançadas e Tabela Dinâmica)
-* **VBA/Macro** (Automação de processos)
+* **Excel** (Fórmulas PROCV, SOMA, SE, MEDIA, MAXIMO, MINIMO e Tabela Dinâmica)
+* **VBA/Macro** (Automação de processos e dominio da linguagem)
 * **Power BI** (Visualização de dados)
 * **Power Query** (Processo de ETL)
-* **DAX** (Cálculos do BI)
+* **DAX** (Cálculos do BI e função condicional)
 
 ---
 
 ### 📈 **ETAPA 1: EXCEL AVANÇADO & VBA**
-**Foco: Estruturação, Automação e Rapidez.**
 
 Nesta etapa, transformei dados brutos em uma ferramenta operacional funcional:
 
-* **Tratamento:** Padronização de dados e tabelas estruturadas para evitar erros de referência.
-* **Inteligência:** Aplicação de funções avançadas (PROCV, CONT.SE, MÉDIA) para cálculo de performance.
-* **Automação de Média de Alunos (VBA):** Desenvolvimento de um script para entrada de notas via `InputBox`, cálculo automático de médias e aplicação de formatação condicional (Verde para aprovação e Vermelho para reprovação) diretamente nas células.
-* **UX/UI:** Lista suspensa interativa e formatação condicional dinâmica (KPIs de performance).
+* **Tratamento:** Padronização de dados, tranformar intervalos em tabelas estruturadas, identificar valores nulos e com erros para evitar falhas quando usar como referência.
+* **Inteligência:** Aplicação de funções avançadas (PROCV, SE, MÉDIA e SOMA) para cálculo de performance.
+* **Automação de Média de Alunos (VBA):** Desenvolvimento de um script para entrada de notas via `InputBox`, cálculo automático de médias usando formatação condicional (Verde para aprovação e Vermelho para reprovação) para treino e dominio da linguagem de automação de ponta a ponta
+* **UX/UI:** Lista suspensa interativa, formatação condicional dinâmica, filtros por ativos e tipos  para gerar KPIs de performance.
 
 ---
 
@@ -35,14 +34,13 @@ Nesta etapa, transformei dados brutos em uma ferramenta operacional funcional:
 
 ---
 
-### 📊 **ETAPA 2: BUSINESS INTELLIGENCE (POWER BI)**
-**Foco: Modelagem, DAX e Tomada de Decisão.**
+### 📊 **ETAPA 2: Dashboard (POWER BI)**
 
 Aqui, os dados foram elevados a um nível analítico e visual:
 
-* **ETL (Power Query):** Limpeza profunda e criação de colunas condicionais para segmentação de rentabilidade.
-* **Cálculos DAX:** Desenvolvimento de medidas para Rentabilidade %, Lucro Total e análises estatísticas (Máx/Mín).
-* **Visualização:** Dashboard interativo com navegação por botões, filtros dinâmicos e análise por categoria de ativo.
+* **ETL (Power Query):** Criação de colunas condicionais para segmentação de rentabilidade e classifcação de tipo de colunas em numero inteiros ou decimais, texto, em R$ e procentagem
+* **Cálculos DAX:** Realizar medidas para Rentabilidade %, Lucro Total, Perda total e análises (Máx/Mín).
+* **Visualização:** Dashboard interativo com navegação por botões, filtros dinâmicos e análise por categoria de ativo e tipo.
   
 ---
 
@@ -55,9 +53,10 @@ Aqui, os dados foram elevados a um nível analítico e visual:
 
 ### 🚀 **RESULTADOS OBTIDOS**
 * **Eficiência Operacional:** Redução do tempo de tratamento de dados com o uso de Power Query e VBA.
-* **Visão 360º:** O gestor agora identifica instantaneamente quais ativos estão performando acima ou abaixo da meta.
-* **Escalabilidade:** O modelo está pronto para receber novos aportes sem necessidade de refazer os
-* 
+* **Visão 360º:** Identifica instantaneamente quais ativos estão performando acima ou abaixo da meta.
+* **Dashboard funcional e intuitivo:** Transforma dados brutos em informações visuais claras, permitindo o acompanhamento eficiente dos investimentos e apoiando a tomada de decisão.
+* **Planilha funcional e profissional com busca interativa e visualização clara da performance da carteira, com integração com macro**
+* **VBA com interação ao usuario para calculo de media de nota, para dominio da linguagem e adminstração do codigo para tarefas futuras**
 ---
 
 
