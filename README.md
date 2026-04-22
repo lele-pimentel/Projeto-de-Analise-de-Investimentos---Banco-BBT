@@ -51,7 +51,7 @@ Aqui, os dados foram elevados a um nível analítico e visual:
 
 ---
 
-###**RESULTADOS OBTIDOS**
+### **RESULTADOS OBTIDOS**
 * **Eficiência Operacional:** Redução do tempo de tratamento de dados com o uso de Power Query e VBA.
 * **Visão 360º:** Identifica instantaneamente quais ativos estão performando acima ou abaixo da meta.
 * **Dashboard funcional e intuitivo:** Transforma dados brutos em informações visuais claras, permitindo o acompanhamento eficiente dos investimentos e apoiando a tomada de decisão.
