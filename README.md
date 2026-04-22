@@ -24,7 +24,7 @@ Nesta etapa, transformei dados brutos em uma ferramenta operacional funcional:
 * **Tratamento:** Padronização de dados, tranformar intervalos em tabelas estruturadas, identificar valores nulos e com erros para evitar falhas quando usar como referência.
 * **Inteligência:** Aplicação de funções avançadas (PROCV, SE, MÉDIA e SOMA) para cálculo de performance.
 * **Automação de Média de Alunos (VBA):** Desenvolvimento de um script para entrada de notas via `InputBox`, cálculo automático de médias usando formatação condicional (Verde para aprovação e Vermelho para reprovação) para treino e dominio da linguagem de automação de ponta a ponta
-* **UX/UI:** Lista suspensa interativa por ativo exibindo informações, tabela condicional visualizando a porcentagem do valor atual, em R$ e seu total
+* **Busca de informações por ativos:** Lista suspensa interativa por ativo exibindo informações, tabela condicional visualizando a porcentagem do valor atual, em R$ e seu total
 
 ---
 
