@@ -2,13 +2,13 @@
 
 Este projeto demonstra o fluxo completo de dados, desde o tratamento, organização em ETL e automação em Excel até a criação de um dashboard estratégico em Power BI, simulando o cenário real de uma mesa de investimentos.
 
-### 🚩 **DESAFIO**
+### **DESAFIO**
 Como analista, recebi bases de dados fragmentadas, vazias, com erros e desogarnizadas, o que torna o acompanhamento de rentabilidade, lucro e perda propenso a erros manuais e dificulta a visualização de oportunidades ou riscos na carteira do cliente.
 
-### 🎯 **OBJETIVO**
+### **OBJETIVO**
 Demonstrar o fluxo completo de dados de uma carteira de investimentos, desde o tratamento e automação em Excel até a criação de um dashboard analítico em Power BI, garantindo integridade de dados e suporte à tomada de decisão.
 
-### 🛠️ **TECNOLOGIAS UTILIZADAS**
+### **TECNOLOGIAS UTILIZADAS**
 * **Excel** (Fórmulas PROCV, SOMA, SE, MEDIA, MAXIMO, MINIMO e Tabela Dinâmica)
 * **VBA/Macro** (Automação de processos e dominio da linguagem)
 * **Power BI** (Visualização de dados)
@@ -17,7 +17,7 @@ Demonstrar o fluxo completo de dados de uma carteira de investimentos, desde o t
 
 ---
 
-### 📈 **ETAPA 1: EXCEL AVANÇADO & VBA**
+### **ETAPA 1: EXCEL AVANÇADO & VBA**
 
 Nesta etapa, transformei dados brutos em uma ferramenta operacional funcional:
 
@@ -34,7 +34,7 @@ Nesta etapa, transformei dados brutos em uma ferramenta operacional funcional:
 
 ---
 
-### 📊 **ETAPA 2: Dashboard (POWER BI)**
+### **ETAPA 2: Dashboard (POWER BI)**
 
 Aqui, os dados foram elevados a um nível analítico e visual:
 
@@ -51,7 +51,7 @@ Aqui, os dados foram elevados a um nível analítico e visual:
 
 ---
 
-### 🚀 **RESULTADOS OBTIDOS**
+###**RESULTADOS OBTIDOS**
 * **Eficiência Operacional:** Redução do tempo de tratamento de dados com o uso de Power Query e VBA.
 * **Visão 360º:** Identifica instantaneamente quais ativos estão performando acima ou abaixo da meta.
 * **Dashboard funcional e intuitivo:** Transforma dados brutos em informações visuais claras, permitindo o acompanhamento eficiente dos investimentos e apoiando a tomada de decisão.
